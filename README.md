@@ -3,8 +3,7 @@
 
 Someone on thedonald.win claimed to have done an analysis of the election results including data that they had scraped: https://thedonald.win/p/11Q8O2wesk/happening-calling-every-pede-to-/
 
-For posterity I have posted here.   Note that I do NOT vouch for the validity but simply am posting the code that was claimed to have uncovered fraud so people can discuss and point out potential issues
-I made minimal changes to the code to make it easier to run.
+For transparency I have posted here.   Note that I do NOT vouch for the validity but simply am posting the code that was claimed to have uncovered fraud so people can discuss and point out potential issues. I made minimal changes to the code to make it easier to run.
 
 # Running
 
