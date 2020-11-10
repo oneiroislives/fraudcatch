@@ -8,6 +8,7 @@ I made minimal changes to the code to make it easier to run.
 
 # Running
 
+```
 python fraudcatch.py
 >>
 Alabama: -1170.235
@@ -60,9 +61,12 @@ Washington: 0
 West Virginia: No Data
 Wisconsin: -2078.038
 Wyoming: 0
+```
 
+```
 python fraudcatch.py -s pennsylvania
 >>
 Pennsylvania: -220883.425
+```
 
 
